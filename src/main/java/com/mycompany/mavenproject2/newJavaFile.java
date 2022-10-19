@@ -65,28 +65,15 @@ public class newJavaFile {
       numeroDecimalList[3]=6.4;
       numeroDecimalList[4]=3.9;
       
-      var i=0;
       System.out.println(numeroList[0]);
-      i++;
       System.out.println(numeroList[1]);
-      i++;
       System.out.println(numeroList[2]);
-      i++;
       System.out.println(numeroList[3]);
-      i++;
       System.out.println(numeroList[4]);
-      
+    
       System.out.println(numeroDecimalList[0]);
       System.out.println(numeroDecimalList[1]);
       System.out.println(numeroDecimalList[2]);
       System.out.println(numeroDecimalList[3]);
       System.out.println(numeroDecimalList[4]);
-      
-        for (var i = 0; i < numeroList.length; i++) {
-            System.out.println(numeroList[i]);
-        }
-        for (var i = 0; i < numeroDecimalList.length; i++) {
-            System.out.println(numeroDecimalList[i]);
-        }
-    }             
-}
+    }             }
