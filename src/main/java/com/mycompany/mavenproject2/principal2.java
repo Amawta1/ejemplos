@@ -39,7 +39,7 @@ public class principal2 {
         //leer datos del teclado
         var lectura = new Scanner(System.in);
         
-        System.out.println("Ingresar un numero");
+        System.out.println("Ingresar numeros menores a 10");
         var numero=lectura.nextInt();
         System.out.println("numero = " + numero);
         
