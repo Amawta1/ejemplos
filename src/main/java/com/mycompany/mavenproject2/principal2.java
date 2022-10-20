@@ -74,5 +74,7 @@ public class principal2 {
       System.out.println(numeroDecimalList[2]);
       System.out.println(numeroDecimalList[3]);
       System.out.println(numeroDecimalList[4]);
+      
+      
     }           
 }
