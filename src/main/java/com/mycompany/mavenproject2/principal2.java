@@ -124,11 +124,5 @@ public class principal2 {
         
         var matrizDinamica = new int [filas][columnas];
         
-    
-  
-    
-    
-    
-            
+   }
 }
-
